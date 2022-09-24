@@ -1,0 +1,5 @@
+project: digestpp
+target: digestpp
+
+cmds:
+  - cmd: /fuzzBlake2b
